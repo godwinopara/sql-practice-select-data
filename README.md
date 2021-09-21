@@ -75,6 +75,3 @@ Run the SQL command to query for all large puppies with a microchip.
 
 You are now able to query data in a database using the SQL `SELECT` statement 
 with and without a `WHERE` clause.
-
-
-[drop-table]: https://www.sqlite.org/lang_droptable.html
