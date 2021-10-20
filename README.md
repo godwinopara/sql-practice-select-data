@@ -50,7 +50,7 @@ Run the SQL command that returns the name, age and weight for the puppy with an
 
 ## Step 4: Select rows matching a specific value
 
-Run the SQL command that return the name, age and weight for each puppy that has
+Run the SQL command that returns the name, age and weight for each puppy that has
 been `microchipped`.
 
 > Tip: Remember that SQLite stores a `BOOLEAN` value as an `INTEGER` where 
@@ -69,7 +69,7 @@ age and weight of all large puppies, meaning those over 25 pounds (lbs).
 Run the SQL command to query for all large puppies with a microchip.
 
 > Tip: Like JavaScript, SQL has a way to combine conditionals using logical
-> statements such as `AND`, 'OR` and 'NOT`.
+> statements such as `AND`, `OR` and `NOT`.
 
 ## Congratulations!
 
